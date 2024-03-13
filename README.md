@@ -4,6 +4,8 @@ Write a Data Science Blog Post (part of the Udacity "DataScience" nanodegree pro
 # Project Overview :
 The Data Science Blog Post Project is part of the Udacity “Data Science” nanodegree progam. For the project, a dataset from x was used.
 
+# Problem Statement:
+
 # Installations :
 This project was implemented in Python, utilizing Jupyter Notebook within the Anaconda environment. The essential Python packages employed in this project include:
 
