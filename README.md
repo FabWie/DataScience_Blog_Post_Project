@@ -13,10 +13,8 @@ This dataset was scraped on December 26, 2023.
 This project was implemented in Python, utilizing Jupyter Notebook within the Anaconda environment. The essential Python packages employed in this project include:
 
 - pandas
-- numpy
 - plotly.express
-- plotly.graph_objs
-- matplotlib.pyplot
+- folium
 
 # Data Scoure:
 Airbnb: http://insideairbnb.com/get-the-data
