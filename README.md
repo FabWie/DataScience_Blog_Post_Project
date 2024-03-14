@@ -3,7 +3,7 @@ Write a Data Science Blog Post (part of the Udacity "DataScience" nanodegree pro
 
 # Project Overview :
 The Data Science Blog Post Project is part of the Udacity “Data Science” nanodegree progam. 
-For the project, a dataset containing Airbnb listings in Munich was used for the project.
+A dataset containing Airbnb listings in Munich was used for the project.
 This dataset was scraped on December 26, 2023.
 
 
