@@ -14,8 +14,6 @@ This project was implemented in Python, utilizing Jupyter Notebook within the An
 - plotly.express
 - plotly.graph_objs
 - matplotlib.pyplot
-- seaborn
-- sklearn (scikit-learn)
 
 # Data Scoure:
 Airbnb: http://insideairbnb.com/get-the-data
