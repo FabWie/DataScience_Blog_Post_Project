@@ -18,4 +18,11 @@ This project was implemented in Python, utilizing Jupyter Notebook within the An
 - sklearn (scikit-learn)
 
 # Data Scoure:
+Airbnb
+http://insideairbnb.com/get-the-data
+Munich, Bavaria, Germany
+26 December, 2023
+listings.csv.gz
 
+# Acknowledgements :
+Thanks to Airbnb for providing the data.
